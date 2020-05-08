@@ -27,9 +27,9 @@ The demo version of the game can be found in this repository. Please note that t
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contacts
-[Linh Tang](https://github.com/LinhTangTD) tanglinh@grinnell.edu
+[Linh Tang](https://github.com/LinhTangTD) - email: tanglinh@grinnell.edu
 
-[Yolanda Jiang](https://github.com/yolandajhzm) jianghui@grinnell.edu
+[Yolanda Jiang](https://github.com/yolandajhzm) - email: jianghui@grinnell.edu
 
 ## References
 [Java Pacman Tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/)
