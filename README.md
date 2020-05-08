@@ -1,6 +1,6 @@
 # Pacman Go Home
 
-During this pandemic time, people need to learn how to protect themselves from coronavirus. The key is to stay home, wear masks, and avoid contacting infected people. Therefore, the purpose of this game is to deliver this message to the players. We hope people can learn while playing PacmanGoHome.
+During this pandemic time, people need to learn how to protect themselves from coronavirus. The key is to stay home, wear masks while going out, and avoid contacting infected people. Therefore, the purpose of this game is to deliver this message to the players. We hope people can learn while playing PacmanGoHome.
 
 The game is based on the original Pacman [game tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/) from [Zetcode](http://zetcode.com) and is further developed in Java by [Linh Tang](https://github.com/LinhTangTD) and [Yolanda Jiang](https://github.com/yolandajhzm) as the final project for "CSC207: Object-oriented programming, data structures, and algorithms" class at [Grinnell College](https://www.grinnell.edu/) during Spring 2020. 
 
