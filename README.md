@@ -2,7 +2,9 @@
 
 During this pandemic time, people need to learn how to protect themselves from coronavirus. The key is to stay home, wear masks, and avoid contacting infected people. Therefore, the purpose of this game is to deliver this message to the players. We hope people can learn while playing PacmanGoHome.
 
-The game is based on the original Pacman [game tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/) from [Zetcode](http://zetcode.com) and is further developed in Java by Linh Tang and Yolanda Jiang as the final project for "CSC207: Object-oriented programming, data structures, and algorithms" class at Grinnell College during Spring 2020.
+The game is based on the original Pacman [game tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/) from [Zetcode](http://zetcode.com) and is further developed in Java by Linh Tang and Yolanda Jiang as the final project for "CSC207: Object-oriented programming, data structures, and algorithms" class at Grinnell College during Spring 2020. 
+
+[Video demo of PacmanGoHome](https://drive.google.com/open?id=10DFG39CY1ilI5htYoLHSEVTmPcexf5cd).
 
 ## How to play?
 Users can control Pacman with their 4 cursors keys to avoid viruses and try to reach home. There are three lives initially. In the maze, there are mask and hospital which can each save Pacman life once. There is also be an infected Pacman in the maze. Having contact with him or virus costs Pacman life. The game has two levels. The second level is more challenging as the number of viruses is double moving faster, representing the real-time unexpectedly fast and widespread waves of COVID-19.
