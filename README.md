@@ -27,11 +27,13 @@ After downloading the compressed file, unzip the folder using unarchiver softwar
 
 ## For Developers
 
-The source code of PacmanGoHome is available [here](../../tree/master/src). We use [Eclipse IDE](https://www.eclipse.org/) to build and test the program. If you want to run using command-line tools (java, javac), please refer to this [article](https://www.codejava.net/java-core/tools/how-to-compile-package-and-run-a-java-program-using-command-line-tools-javac-jar-and-java) for help.
+  ➤ [Source code & resources](../../tree/master/src).  
+  
+  ➤ [Explanation of development flows & algorithms.](PacmanGoHome.pdf).
+  
+We use [Eclipse IDE](https://www.eclipse.org/) to build and test the program. If you want to run using command-line tools (java, javac), please refer to this [article](https://www.codejava.net/java-core/tools/how-to-compile-package-and-run-a-java-program-using-command-line-tools-javac-jar-and-java) for help.
 
-The main method is saved at ```PacmanGoHome.java``` together with the initialization of the GUI. The ```screen.java``` contains all other implementations of the game. 
-
-All the code has been well-documented. Further explanation of the development flows and algorithms is provided in [this document](PacmanGoHome.pdf).
+The main method is saved at ```PacmanGoHome.java``` together with the initialization of the GUI. The ```screen.java``` contains all other implementations of the game. All the code has been well-documented. 
 
 ## Contributing
 The demo version of the game can be found in this repository. Please note that the game is still in progress of development.
