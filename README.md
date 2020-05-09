@@ -2,14 +2,14 @@
 
 # Pacman Go Home
 
-During this pandemic time, people need to learn how to protect themselves from coronavirus. The key is to stay home, wear masks while going out, and avoid contacting infected people. Therefore, the purpose of this game is to deliver this message to the players. We hope people can learn while playing PacmanGoHome.
+PacmanGoHome is an educational game, based on the original Pacman [game tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/) from [Zetcode](http://zetcode.com). During this pandemic time, people need to learn how to protect themselves from coronavirus. The key is to stay home, wear masks while going out, and avoid contacting infected people. Therefore, the purpose of this game is to deliver this message to the players. We hope people can learn while playing PacmanGoHome.
 
-The game is based on the original Pacman [game tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/) from [Zetcode](http://zetcode.com) and is further developed in Java by [Linh Tang](https://github.com/LinhTangTD) and [Yolanda Jiang](https://github.com/yolandajhzm) as the final project for `CSC207: Object-oriented programming, data structures, and algorithms` class at [Grinnell College](https://www.grinnell.edu/) during Spring 2020. For more information, please refer to [this presentation](PacmanGoHome.pdf).
+The game is developed in Java by [Linh Tang](https://github.com/LinhTangTD) and [Yolanda Jiang](https://github.com/yolandajhzm) as the final project for `CSC207: Object-oriented programming, data structures, and algorithms` class at [Grinnell College](https://www.grinnell.edu/) during Spring 2020. For more information, please refer to [this presentation](PacmanGoHome.pdf).
 
 [Video demo of PacmanGoHome](https://drive.google.com/open?id=10DFG39CY1ilI5htYoLHSEVTmPcexf5cd).
 
 ## How to play?
-Users can control Pacman with their 4 cursors keys to avoid viruses and try to reach home. There are three lives initially. In the maze, there are mask and hospital which can each save Pacman life once. There is also be an infected Pacman in the maze. Having contact with him or virus costs Pacman life. The game has two levels. The second level is more challenging as the number of viruses is double moving faster, representing the real-time unexpectedly fast and widespread waves of COVID-19.
+Users can control Pacman with their 4 cursors keys to avoid viruses and try to reach home. There are three initial lives. In the maze, there are one mask and hospital, each can save Pacman one life. There is also an infected Pacman, having contact with him or virus costs Pacman one life. The game has two levels. The second level is more challenging as the number of viruses is double and moving faster, representing the real-time unexpectedly fast and widespread waves of COVID-19.
 
 <p align="center"><img src="demo_gif.gif" width="360" height="410"/></p>
 
@@ -21,7 +21,7 @@ If you are not a developer, please download the appropriate version of the game 
   
   ➤ [Download PacmanGoHome for Windows](PacmanGoHome_Windows.zip)
   
-  ➤ [Install the latest Java](https://www.oracle.com/java/technologies/javase-downloads.html)
+  ➤ [Install the latest Java version](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 After download the compressed file, please unzip the folder. For macOS users, please change your `Security & Privacy` in `System Preferences` to allow the `PacmanGoHome.app` to run. For Windows users, click on `PacmanGoHome.exe` to play the game.
 
@@ -38,7 +38,7 @@ The demo version of the game can be found in this repository. Please note that t
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Contacts
+## Author & Contacts
 [Linh Tang](https://github.com/LinhTangTD) - email: tanglinh@grinnell.edu
 
 [Yolanda Jiang](https://github.com/yolandajhzm) - email: jianghui@grinnell.edu
