@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" /></p>
+
 # Pacman Go Home
 
 During this pandemic time, people need to learn how to protect themselves from coronavirus. The key is to stay home, wear masks while going out, and avoid contacting infected people. Therefore, the purpose of this game is to deliver this message to the players. We hope people can learn while playing PacmanGoHome.
