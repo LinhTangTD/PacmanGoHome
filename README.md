@@ -23,7 +23,7 @@ If you are not a developer, please download the appropriate version of the game 
   
   ➤ [Install the latest Java version](https://www.oracle.com/java/technologies/javase-downloads.html)
 
-After download the compressed file, please unzip the folder. For macOS users, please change your `Security & Privacy` in `System Preferences` to allow the `PacmanGoHome.app` to run. For Windows users, click on `PacmanGoHome.exe` to play the game.
+After downloading the compressed file, unzip the folder using unarchiver softwares in your device. For macOS users, please change your `Security & Privacy` in `System Preferences` to allow the `PacmanGoHome.app` to run. For Windows users, click on `PacmanGoHome.exe` to play the game.
 
 ## For Developers
 
