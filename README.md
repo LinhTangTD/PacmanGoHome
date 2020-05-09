@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" /></p>
+<p align="center"><img src="logo.png" width="450" height="450"/></p>
 
 # Pacman Go Home
 
@@ -10,6 +10,8 @@ The game is based on the original Pacman [game tutorial](http://zetcode.com/tuto
 
 ## How to play?
 Users can control Pacman with their 4 cursors keys to avoid viruses and try to reach home. There are three lives initially. In the maze, there are mask and hospital which can each save Pacman life once. There is also be an infected Pacman in the maze. Having contact with him or virus costs Pacman life. The game has two levels. The second level is more challenging as the number of viruses is double moving faster, representing the real-time unexpectedly fast and widespread waves of COVID-19.
+
+<p align="center"><img src="demo_gif.gif" width="360" height="410"/></p>
 
 ## Installation & Usage
 
