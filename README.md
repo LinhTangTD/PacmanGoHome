@@ -11,17 +11,17 @@ Users can control Pacman with their 4 cursors keys to avoid viruses and try to r
 
 ## Installation & Usage
 
-If you are not a developer, please download the appropriate ```zip``` file of the game corresponding to your operating system. Currently, we are supporting [macOS](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome_MacOS.zip) and [Windows](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome_Windows.zip) users with minimum [Java 12](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) installed. We plan to support the Linux system in the near future. 
+If you are not a developer, please download the appropriate ```zip``` file of the game corresponding to your operating system. Currently, we are supporting [macOS](https://github.com/LinhTangTD/PacmanGoHome/PacmanGoHome_MacOS.zip) and [Windows](https://github.com/LinhTangTD/PacmanGoHome/PacmanGoHome_Windows.zip) users with minimum [Java 12](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) installed. We plan to support the Linux system in the near future. 
 
 After download the compressed file, please unzip the folder. For macOS users, please change your `Security & Privacy` in `System Preferences` to allow the `PacmanGoHome.app` to run. For Windows users, click on `PacmanGoHome.exe` to play the game.
 
 ## For Developers
 
-The source code of PacmanGoHome is available [here]((https://github.com/LinhTangTD/PacmanGoHome/tree/master/src) ). We use [Eclipse IDE](https://www.eclipse.org/) to build and test the program. If you want to run using command-line tools (java, javac), please refer to this [article](https://www.codejava.net/java-core/tools/how-to-compile-package-and-run-a-java-program-using-command-line-tools-javac-jar-and-java) for help.
+The source code of PacmanGoHome is available [here]((https://github.com/LinhTangTD/PacmanGoHome/src) ). We use [Eclipse IDE](https://www.eclipse.org/) to build and test the program. If you want to run using command-line tools (java, javac), please refer to this [article](https://www.codejava.net/java-core/tools/how-to-compile-package-and-run-a-java-program-using-command-line-tools-javac-jar-and-java) for help.
 
 The main method is saved at ```PacmanGoHome.java``` together with the initialization of the GUI. The ```screen.java``` contains all other implementations of the game. 
 
-All the code has been well-documented. Further explanation of the development flows and algorithms is provided in [this document](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome.pdf).
+All the code has been well-documented. Further explanation of the development flows and algorithms is provided in [this document](https://github.com/LinhTangTD/PacmanGoHome/PacmanGoHome.pdf).
 
 ## Contributing
 The demo version of the game can be found in this repository. Please note that the game is still in progress of development.
