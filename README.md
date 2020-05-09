@@ -4,7 +4,7 @@
 
 During this pandemic time, people need to learn how to protect themselves from coronavirus. The key is to stay home, wear masks while going out, and avoid contacting infected people. Therefore, the purpose of this game is to deliver this message to the players. We hope people can learn while playing PacmanGoHome.
 
-The game is based on the original Pacman [game tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/) from [Zetcode](http://zetcode.com) and is further developed in Java by [Linh Tang](https://github.com/LinhTangTD) and [Yolanda Jiang](https://github.com/yolandajhzm) as the final project for "CSC207: Object-oriented programming, data structures, and algorithms" class at [Grinnell College](https://www.grinnell.edu/) during Spring 2020. 
+The game is based on the original Pacman [game tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/) from [Zetcode](http://zetcode.com) and is further developed in Java by [Linh Tang](https://github.com/LinhTangTD) and [Yolanda Jiang](https://github.com/yolandajhzm) as the final project for `CSC207: Object-oriented programming, data structures, and algorithms` class at [Grinnell College](https://www.grinnell.edu/) during Spring 2020. For more information, please refer to [this presentation](PacmanGoHome.pdf).
 
 [Video demo of PacmanGoHome](https://drive.google.com/open?id=10DFG39CY1ilI5htYoLHSEVTmPcexf5cd).
 
@@ -15,7 +15,7 @@ Users can control Pacman with their 4 cursors keys to avoid viruses and try to r
 
 ## Installation & Usage
 
-If you are not a developer, please download the appropriate version of the game corresponding to your operating system. Currently, we are supporting [macOS](PacmanGoHome_MacOS.zip) and [Windows](PacmanGoHome_Windows.zip) users with minimum ```Java 12``` installed. We plan to support the Linux system in the near future. 
+If you are not a developer, please download the appropriate version of the game corresponding to your operating system. Currently, we are supporting `macOS` and `Windows` users with minimum `Java 12` installed. We plan to support the `Linux` system in the near future. 
 
   ➤ [Download PacmanGoHome for macOS](PacmanGoHome_MacOS.zip)
   
