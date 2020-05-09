@@ -15,10 +15,13 @@ Users can control Pacman with their 4 cursors keys to avoid viruses and try to r
 
 ## Installation & Usage
 
-If you are not a developer, please download the appropriate version of the game corresponding to your operating system. Currently, we are supporting [macOS](PacmanGoHome_MacOS.zip) and [Windows](PacmanGoHome_Windows.zip) users with minimum [Java 12](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) installed. We plan to support the Linux system in the near future. 
+If you are not a developer, please download the appropriate version of the game corresponding to your operating system. Currently, we are supporting [macOS](PacmanGoHome_MacOS.zip) and [Windows](PacmanGoHome_Windows.zip) users with minimum ```Java 12``` installed. We plan to support the Linux system in the near future. 
 
-  1. [Download PacmanGoHome for macOS](PacmanGoHome_MacOS.zip)
-  2. [Download PacmanGoHome for Windows](PacmanGoHome_Windows.zip)
+  ➤ [Download PacmanGoHome for macOS](PacmanGoHome_MacOS.zip)
+  
+  ➤ [Download PacmanGoHome for Windows](PacmanGoHome_Windows.zip)
+  
+  ➤ [Install the latest Java](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 After download the compressed file, please unzip the folder. For macOS users, please change your `Security & Privacy` in `System Preferences` to allow the `PacmanGoHome.app` to run. For Windows users, click on `PacmanGoHome.exe` to play the game.
 
